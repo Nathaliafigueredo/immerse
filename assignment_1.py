@@ -45,7 +45,7 @@ def get_masked_word(word):
 
 #3. Turn the letters in the word into capital letters, search for the default method .upper()
 
-#4. Use the function get_masked_word().
+#4. Use the function get_masked_word() that I provided for you above.
 # This function returns the masked word, and a dictionary.
 # The dictionary contains the masked letters as keys,
 # and a list of their positions as values.
